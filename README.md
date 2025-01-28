@@ -1,16 +1,14 @@
-## Hi there 👋
+## It's dangerous to code alone! Read this.
 
-<!--
-**EricRios-commits/EricRios-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Eric Ríos, currently a computer science student at Universidad de La Laguna on Tenerife (Canary Islands)
 
-Here are some ideas to get you started:
+You can find me here!
+ 
+ LinkedIn                   [<img src="img/linkedin.png" width="32">](https://www.linkedin.com/in/eric-ríos)              
+ GitHub                     [<img src="img/github.png" width="32">](https://github.com/EricRios-commits)                                               
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Or follow my videogame, Vinculo's, development on
+
+ YouTube                  [<img src="img/Youtube_logo.png" width="32">](https://www.youtube.com/@vinculothegame)              
+ Instagram                     [<img src="img/instagram.avif" width="32">](https://www.instagram.com/vinculothegame)                                               
