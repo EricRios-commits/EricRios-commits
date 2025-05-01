@@ -8,7 +8,7 @@ You can find me here!
  GitHub                     [<img src="img/github.png" width="32">](https://github.com/EricRios-commits)                                               
 
 
-Or follow my videogame, Vinculo's, development on
+Or follow my videogame's, development on
 
  YouTube                  [<img src="img/Youtube_logo.png" width="32">](https://www.youtube.com/@vinculothegame)              
  Instagram                     [<img src="img/instagram.avif" width="32">](https://www.instagram.com/vinculothegame)                                               
