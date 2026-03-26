@@ -4,5 +4,5 @@ I am Eric Ríos, currently a computer science and engineering student at Univers
 
 You can find me here!
  
- LinkedIn                   [<img src="img/linkedin.png" width="32">](https://www.linkedin.com/in/eric-ríos)              
- GitHub                     [<img src="img/github.png" width="32">](https://github.com/EricRios-commits)                                               
+ [<img src="img/linkedin.png" width="32">](https://www.linkedin.com/in/eric-ríos)              
+ [<img src="img/github.png" width="32">](https://github.com/EricRios-commits)                                               
