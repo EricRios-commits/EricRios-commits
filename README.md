@@ -1,8 +1,6 @@
 ## It's dangerous to code alone! Read this.
 
-I am Eric Ríos, currently a computer science and engineering student at Universidad de La Laguna on Tenerife (Canary Islands)
+I’m Eric Ríos, a computer engineering graduate from the University of La Laguna. I’m currently studying Games Engineering at the Technische Universität München.
 
-You can find me here!
- 
+You can find me here: 
  [<img src="img/linkedin.png" width="32">](https://www.linkedin.com/in/eric-ríos)              
- [<img src="img/github.png" width="32">](https://github.com/EricRios-commits)                                               
